@@ -41,7 +41,7 @@ export default function Page() {
     <div className="overflow-hidden flex flex-col items-center justify-center pt-4 h-screen -mt-16 selection:bg-rose-600 selection:text-white text-zinc-900">
       {yesPressed ? (
         <>
-          <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
+          <img src="https://media.tenor.com/FQr-5UQUIr8AAAAi/mocha-and.gif"/>
           <div className="text-4xl md:text-6xl font-bold my-4">
             Ok Yayy thanks Sunmi!!! :3
           </div>
